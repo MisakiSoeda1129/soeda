@@ -800,6 +800,7 @@ a {
     text-align: left;
   }
   .footer-copyright__txt {
+    text-align: center;
     line-height: 1.3;
     font-size: 1.25rem;
     letter-spacing: -0.01em;
